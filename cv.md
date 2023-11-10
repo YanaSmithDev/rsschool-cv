@@ -32,3 +32,15 @@ function multiply(a, b){
   return increase;
 }
 ```
+
+### Work Experience
+
+All my previous experience was not related to programming.
+From 2010 to 2022 I worked in the field of personnel administration.
+From 2021 to 2022, I held the position of HR manager / recruiter in an international IT company and was involved in the search for developers in Russia and the CIS countries.
+
+### Skills
+
+- HTML
+- CSS
+- JS
